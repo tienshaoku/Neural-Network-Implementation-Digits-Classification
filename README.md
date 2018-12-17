@@ -2,8 +2,8 @@
 
 Python code of Neural Network Implementation on digits classification
 
-1. Description.pdf: description of the questions
-2. Review.pdf: review of the homework
+1. Description.pdf: description of the homework
+2. Review.pdf: review over the homework
 3. howtoru.txt, instruction.txt: instruction of running the code
 4. num1a.py: python code of the wide hidden layer (2 layers)
 5. num1b.py: python code of the deep hidde layer (3 layers)
